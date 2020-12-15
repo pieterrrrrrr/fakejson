@@ -18,5 +18,55 @@
       "date": "Juli 8, 2021",
       "time": "09:00"
     }
+  ],
+  "recepten": [
+    {
+      "id": 1,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
+    {
+      "id": 2,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
+    {
+      "id": 3,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
+    {
+      "id": 4,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
+    {
+      "id": 5,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
+    {
+      "id": 6,
+      "title": "Pasta",
+      "description": "Pasta met roomsaus",
+      "ingredients": ["pasta", "room", "tijm", "sjalotten"],
+      "category": "main course",
+      "people": 4,
+    },
   ]
 }
