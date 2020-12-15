@@ -20,7 +20,7 @@
 	],
 	"recepten": [{
 			"id": 1,
-			"title": "Pasta",
+			"title": "Pasta 1",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Pasta",
+			"title": "Pasta 2",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
@@ -36,7 +36,7 @@
 		},
 		{
 			"id": 3,
-			"title": "Pasta",
+			"title": "Pasta 3",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
@@ -44,7 +44,7 @@
 		},
 		{
 			"id": 4,
-			"title": "Pasta",
+			"title": "Pasta 4",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
@@ -52,7 +52,7 @@
 		},
 		{
 			"id": 5,
-			"title": "Pasta",
+			"title": "Pasta 5",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
@@ -60,7 +60,7 @@
 		},
 		{
 			"id": 6,
-			"title": "Pasta",
+			"title": "Pasta 6",
 			"description": "Pasta met roomsaus",
 			"ingredients": ["pasta", "room", "tijm", "sjalotten"],
 			"category": "main course",
