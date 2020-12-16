@@ -1,106 +1,108 @@
 {
-	"events": [{
-			"id": 1,
-			"category": "concert",
-			"title": "Tomorrow Land",
-			"description": "Festival op De Schorre",
-			"location": "Boom",
-			"date": "August 8, 2021",
-			"time": "09:00"
-		},
-		{
-			"id": 2,
-			"category": "concert",
-			"title": "Rock Werchter",
-			"description": "Festival op de Werchter weide",
-			"location": "Werchter",
-			"date": "Juli 8, 2021",
-			"time": "09:00"
-		}
-	],
-	"recepten": [{
-			"id": 1,
-			"title": "Pasta 1",
-			"image": "recept_1.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+  "events": [
+    {
+      "id": 1,
+      "category": "concert",
+      "title": "Tomorrow Land",
+      "description": "Festival op De Schorre",
+      "location": "Boom",
+      "date": "August 8, 2021",
+      "time": "09:00"
+    },
+    {
+      "id": 2,
+      "category": "concert",
+      "title": "Rock Werchter",
+      "description": "Festival op de Werchter weide",
+      "location": "Werchter",
+      "date": "Juli 8, 2021",
+      "time": "09:00"
+    }
+  ],
+  "recepten": [
+    {
+      "id": 1,
+      "title": "Pasta 1",
+      "image": "recept_1.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		},
-		{
-			"id": 2,
-			"title": "Pasta 2",
-			"image": "recept_2.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+      "category": "main course",
+      "people": "4"
+    },
+    {
+      "id": 2,
+      "title": "Pasta 2",
+      "image": "recept_2.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		},
-		{
-			"id": 3,
-			"title": "Pasta 3",
-			"image": "recept_3.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+      "category": "main course",
+      "people": "4"
+    },
+    {
+      "id": 3,
+      "title": "Pasta 3",
+      "image": "recept_3.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		},
-		{
-			"id": 4,
-			"title": "Pasta 4",
-			"image": "recept_4.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+      "category": "main course",
+      "people": "4"
+    },
+    {
+      "id": 4,
+      "title": "Pasta 4",
+      "image": "recept_4.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		},
-		{
-			"id": 5,
-			"title": "Pasta 5",
-			"image": "recept_5.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+      "category": "main course",
+      "people": "4"
+    },
+    {
+      "id": 5,
+      "title": "Pasta 5",
+      "image": "recept_5.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		},
-		{
-			"id": 6,
-			"title": "Pasta 6",
-			"image": "recept_6.jpg",
-			"description": "Pasta met roomsaus",
-			"ingredients": [
+      "category": "main course",
+      "people": "4"
+    },
+    {
+      "id": 6,
+      "title": "Pasta 6",
+      "image": "recept_6.jpg",
+      "description": "Pasta met roomsaus",
+      "ingredients": [
         {"name": "pasta"},
         {"name": "room"},
         {"name": "tijm"},
         {"name": "sjalotten"}
       ],
-			"category": "main course",
-			"people": "4"
-		}
-	]
+      "category": "main course",
+      "people": "4"
+    }
+  ]
 }
