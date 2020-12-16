@@ -24,10 +24,22 @@
 			"image": "recept_1.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
@@ -38,10 +50,22 @@
 			"image": "recept_2.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
@@ -52,10 +76,22 @@
 			"image": "recept_3.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
@@ -66,10 +102,22 @@
 			"image": "recept_4.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
@@ -80,10 +128,22 @@
 			"image": "recept_5.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
@@ -94,10 +154,22 @@
 			"image": "recept_6.jpg",
 			"description": "Pasta met roomsaus",
 			"ingredients": [
-        [1, "pasta"],
-        [2, "room"],
-        [3, "tijm"],
-        [4, "sjalotten"]
+        {
+          "id": 1,
+          "name": "pasta"
+        },
+        {
+          "id": 2,
+          "name": "room"
+        },
+        {
+          "id": 3,
+          "name": "tijm"
+        },
+        {
+          "id": 4,
+          "name": "sjalotten"
+        }
       ],
 			"category": "main course",
 			"people": "4"
